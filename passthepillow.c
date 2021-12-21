@@ -15,16 +15,16 @@ void display();
 int choice =0;  
 int main()
 {
-        printf("\n****WELCOME TO MY GAME****\n");  
-        printf("\n****LET'S PLAY****\n");  
+         printf("\n****WELCOME TO MY GAME****\n");  
+         printf("\n****LET'S PLAY****\n");  
          printf("\n****PASS THE PILLOW****\n");  
-        printf("\n=====================================================================================\n");  
-        printf("                                    * * * * * * * * * * *\n");
-        printf("                                    * DEVELOPED BY      *    \n");
-        printf("                                    * * * * * * * * * * *\n");
-	    printf("                                    *  ANSHU UPADHYAY   *\n");
-	    printf("                                    * * * * * * * * * * *\n");
-	    printf("=======================================================================================\n");  
+         printf("\n=====================================================================================\n");  
+         printf("                                    * * * * * * * * * * *\n");
+         printf("                                    * DEVELOPED BY      *\n");
+         printf("                                    * * * * * * * * * * *\n");
+	 printf("                                    *  ANSHU UPADHYAY   *\n");
+	 printf("                                    * * * * * * * * * * *\n");
+	 printf("=======================================================================================\n");  
 
     while(choice != 7)   
     {  
